@@ -1,0 +1,1001 @@
+doctor_id,doctor_name,specialization,department,experience_years
+D0001,Dr. Aarav Reddy,Interventional Cardiology,Cardiology,26
+D0002,Dr. Vivaan Sharma,Audiology,ENT,17
+D0003,Dr. Aadhya Gandhi,Adult Psychiatry,Psychiatry,11
+D0004,Dr. Ira Sharma,ENT Surgery,ENT,3
+D0005,Dr. Meera Mitra,Interventional Pulmonology,Pulmonology,29
+D0006,Dr. Vivaan Verma,Histopathology,Pathology,10
+D0007,Dr. Meera Mehta,Neonatology,Pediatrics,2
+D0008,Dr. Sneha Gandhi,General Pediatrics,Pediatrics,16
+D0009,Dr. Vikram Iyer,Endoscopy,Gastroenterology,16
+D0010,Dr. Saanvi Patel,Audiology,ENT,27
+D0011,Dr. Asha Desai,Histopathology,Pathology,26
+D0012,Dr. Arjun Verma,Radiation Oncology,Oncology,8
+D0013,Dr. Ananya Bose,Diagnostic Radiology,Radiology,7
+D0014,Dr. Shreya Das,Interventional Radiology,Radiology,10
+D0015,Dr. Arjun Gupta,Adult Psychiatry,Psychiatry,29
+D0016,Dr. Vivaan Mehta,Endoscopy,Gastroenterology,24
+D0017,Dr. Karan Patel,Transplant,Nephrology,4
+D0018,Dr. Vikram Mitra,Cosmetic Dermatology,Dermatology,30
+D0019,Dr. Meera Reddy,Sleep Medicine,Pulmonology,9
+D0020,Dr. Saanvi Mehta,Audiology,ENT,5
+D0021,Dr. Arjun Gupta,Non-Invasive Cardiology,Cardiology,7
+D0022,Dr. Vikram Gupta,Diagnostic Radiology,Radiology,4
+D0023,Dr. Ira Mitra,Retina,Ophthalmology,1
+D0024,Dr. Arjun Joshi,Internal Medicine,General Medicine,27
+D0025,Dr. Vivaan Sharma,Endourology,Urology,12
+D0026,Dr. Pooja Das,Spine,Orthopedics,16
+D0027,Dr. Aadhya Mehta,Neurosurgery,Neurology,16
+D0028,Dr. Karan Joshi,General Pediatrics,Pediatrics,8
+D0029,Dr. Ira Bose,Neurosurgery,Neurology,25
+D0030,Dr. Vikram Kumar,Interventional Cardiology,Cardiology,13
+D0031,Dr. Ananya Khanna,ENT Surgery,ENT,9
+D0032,Dr. Shreya Joshi,Spine,Orthopedics,10
+D0033,Dr. Aarav Bose,Radiation Oncology,Oncology,30
+D0034,Dr. Saanvi Sharma,Dialysis,Nephrology,8
+D0035,Dr. Meera Kumar,Non-Invasive Cardiology,Cardiology,1
+D0036,Dr. Meera Gupta,Hepatology,Gastroenterology,3
+D0037,Dr. Kabir Singh,Trauma Medicine,Emergency,5
+D0038,Dr. Meera Desai,Thyroid Specialist,Endocrinology,7
+D0039,Dr. Shreya Joshi,General Surgery,Surgery,28
+D0040,Dr. Aadhya Kapoor,Histopathology,Pathology,16
+D0041,Dr. Aadhya Kumar,Dialysis,Nephrology,8
+D0042,Dr. Diya Nair,Spine,Orthopedics,1
+D0043,Dr. Pooja Das,Transplant,Nephrology,21
+D0044,Dr. Aadhya Chopra,Interventional Radiology,Radiology,3
+D0045,Dr. Kabir Joshi,Child Psychiatry,Psychiatry,23
+D0046,Dr. Sai Iyer,Non-Invasive Cardiology,Cardiology,6
+D0047,Dr. Sneha Sharma,Cosmetic Dermatology,Dermatology,12
+D0048,Dr. Karan Iyer,Neurosurgery,Neurology,15
+D0049,Dr. Saanvi Mitra,Laparoscopic Surgery,Surgery,17
+D0050,Dr. Vivaan Mehta,Interventional Pulmonology,Pulmonology,27
+D0051,Dr. Ira Menon,Dialysis,Nephrology,18
+D0052,Dr. Karan Das,Transplant,Nephrology,21
+D0053,Dr. Meera Verma,Clinical Pathology,Pathology,21
+D0054,Dr. Aadhya Das,Interventional Pulmonology,Pulmonology,17
+D0055,Dr. Aarav Iyer,Cornea,Ophthalmology,27
+D0056,Dr. Diya Desai,Clinical Pathology,Pathology,12
+D0057,Dr. Aarav Joshi,Thyroid Specialist,Endocrinology,16
+D0058,Dr. Diya Gandhi,General Pediatrics,Pediatrics,12
+D0059,Dr. Shreya Das,Reproductive Medicine,Gynecology,4
+D0060,Dr. Diya Kapoor,Clinical Neurology,Neurology,28
+D0061,Dr. Ira Singh,Audiology,ENT,25
+D0062,Dr. Aadhya Reddy,Neonatology,Pediatrics,9
+D0063,Dr. Vivaan Kapoor,Hepatology,Gastroenterology,15
+D0064,Dr. Kabir Bose,Retina,Ophthalmology,5
+D0065,Dr. Vikram Mehta,Endourology,Urology,23
+D0066,Dr. Sneha Verma,Interventional Cardiology,Cardiology,11
+D0067,Dr. Sneha Nair,Adult Psychiatry,Psychiatry,18
+D0068,Dr. Vikram Chopra,Reproductive Medicine,Gynecology,1
+D0069,Dr. Sai Nair,Radiation Oncology,Oncology,16
+D0070,Dr. Ira Reddy,ENT Surgery,ENT,28
+D0071,Dr. Vivaan Desai,Histopathology,Pathology,18
+D0072,Dr. Saanvi Singh,Joint Replacement,Orthopedics,13
+D0073,Dr. Ananya Sharma,Adult Psychiatry,Psychiatry,20
+D0074,Dr. Meera Bose,Spine,Orthopedics,16
+D0075,Dr. Vivaan Gupta,Adult Psychiatry,Psychiatry,22
+D0076,Dr. Saanvi Nair,Radiation Oncology,Oncology,16
+D0077,Dr. Diya Verma,Clinical Pathology,Pathology,3
+D0078,Dr. Kabir Reddy,Neurosurgery,Neurology,18
+D0079,Dr. Kabir Singh,Thyroid Specialist,Endocrinology,29
+D0080,Dr. Pooja Mehta,Interventional Radiology,Radiology,23
+D0081,Dr. Ira Das,Interventional Cardiology,Cardiology,24
+D0082,Dr. Karan Das,Interventional Radiology,Radiology,25
+D0083,Dr. Arjun Chopra,Internal Medicine,General Medicine,11
+D0084,Dr. Asha Iyer,Audiology,ENT,28
+D0085,Dr. Asha Verma,Neonatology,Pediatrics,26
+D0086,Dr. Meera Joshi,Transplant,Nephrology,13
+D0087,Dr. Vikram Das,Cosmetic Dermatology,Dermatology,24
+D0088,Dr. Ananya Gandhi,Child Psychiatry,Psychiatry,2
+D0089,Dr. Aadhya Sharma,Medical Oncology,Oncology,3
+D0090,Dr. Aarav Singh,Transplant,Nephrology,1
+D0091,Dr. Sai Joshi,Audiology,ENT,1
+D0092,Dr. Ananya Chopra,Diagnostic Radiology,Radiology,15
+D0093,Dr. Aditya Gupta,Reproductive Medicine,Gynecology,22
+D0094,Dr. Vivaan Nair,ENT Surgery,ENT,3
+D0095,Dr. Ira Kapoor,Sleep Medicine,Pulmonology,4
+D0096,Dr. Karan Joshi,Retina,Ophthalmology,26
+D0097,Dr. Shreya Verma,Transplant,Nephrology,12
+D0098,Dr. Meera Kumar,Critical Care,Emergency,24
+D0099,Dr. Kabir Khanna,Clinical Neurology,Neurology,21
+D0100,Dr. Diya Sharma,Neonatology,Pediatrics,12
+D0101,Dr. Ishaan Nair,Interventional Pulmonology,Pulmonology,14
+D0102,Dr. Shreya Desai,Reconstructive Urology,Urology,11
+D0103,Dr. Vivaan Joshi,Endourology,Urology,6
+D0104,Dr. Diya Joshi,Child Psychiatry,Psychiatry,25
+D0105,Dr. Asha Mehta,Trauma Medicine,Emergency,14
+D0106,Dr. Vivaan Sharma,Audiology,ENT,27
+D0107,Dr. Ira Verma,Neurosurgery,Neurology,27
+D0108,Dr. Shreya Gandhi,Clinical Neurology,Neurology,2
+D0109,Dr. Aarav Bose,Internal Medicine,General Medicine,3
+D0110,Dr. Vikram Kumar,Internal Medicine,General Medicine,21
+D0111,Dr. Meera Mitra,Family Medicine,General Medicine,18
+D0112,Dr. Ira Gupta,Transplant,Nephrology,8
+D0113,Dr. Karan Chopra,Medical Oncology,Oncology,2
+D0114,Dr. Aadhya Das,Trauma Medicine,Emergency,20
+D0115,Dr. Aadhya Mitra,Trauma Medicine,Emergency,16
+D0116,Dr. Sneha Mitra,Medical Dermatology,Dermatology,14
+D0117,Dr. Kabir Kapoor,Family Medicine,General Medicine,19
+D0118,Dr. Sai Mitra,Adult Psychiatry,Psychiatry,20
+D0119,Dr. Meera Sharma,Joint Replacement,Orthopedics,4
+D0120,Dr. Kabir Khanna,ENT Surgery,ENT,6
+D0121,Dr. Arjun Singh,Neonatology,Pediatrics,26
+D0122,Dr. Sai Verma,Medical Dermatology,Dermatology,28
+D0123,Dr. Shreya Mitra,Critical Care,Emergency,12
+D0124,Dr. Meera Kumar,Reconstructive Urology,Urology,26
+D0125,Dr. Rohan Kumar,General Surgery,Surgery,10
+D0126,Dr. Shreya Desai,Cornea,Ophthalmology,9
+D0127,Dr. Arjun Mitra,Obstetrics,Gynecology,3
+D0128,Dr. Sneha Menon,Hepatology,Gastroenterology,1
+D0129,Dr. Aarav Kapoor,Cosmetic Dermatology,Dermatology,14
+D0130,Dr. Karan Verma,Cornea,Ophthalmology,8
+D0131,Dr. Ishaan Menon,Family Medicine,General Medicine,23
+D0132,Dr. Saanvi Mitra,Family Medicine,General Medicine,18
+D0133,Dr. Meera Bose,Adult Psychiatry,Psychiatry,21
+D0134,Dr. Rohan Nair,Clinical Neurology,Neurology,12
+D0135,Dr. Vikram Kapoor,Hepatology,Gastroenterology,12
+D0136,Dr. Vikram Verma,Reconstructive Urology,Urology,10
+D0137,Dr. Rohan Joshi,Clinical Neurology,Neurology,4
+D0138,Dr. Sneha Reddy,Sleep Medicine,Pulmonology,25
+D0139,Dr. Ananya Patel,Thyroid Specialist,Endocrinology,20
+D0140,Dr. Saanvi Chopra,Reproductive Medicine,Gynecology,5
+D0141,Dr. Rohan Reddy,Cosmetic Dermatology,Dermatology,8
+D0142,Dr. Kabir Mehta,Joint Replacement,Orthopedics,19
+D0143,Dr. Meera Mitra,Interventional Radiology,Radiology,22
+D0144,Dr. Kabir Bose,Thyroid Specialist,Endocrinology,6
+D0145,Dr. Vivaan Gandhi,Medical Oncology,Oncology,16
+D0146,Dr. Pooja Kapoor,Interventional Pulmonology,Pulmonology,30
+D0147,Dr. Sneha Patel,Child Psychiatry,Psychiatry,23
+D0148,Dr. Karan Reddy,Adult Psychiatry,Psychiatry,9
+D0149,Dr. Sai Mehta,Endoscopy,Gastroenterology,11
+D0150,Dr. Vikram Gandhi,Transplant,Nephrology,3
+D0151,Dr. Saanvi Gupta,ENT Surgery,ENT,29
+D0152,Dr. Saanvi Kapoor,Cornea,Ophthalmology,14
+D0153,Dr. Rohan Mehta,Family Medicine,General Medicine,5
+D0154,Dr. Ananya Kapoor,Internal Medicine,General Medicine,21
+D0155,Dr. Meera Menon,Thyroid Specialist,Endocrinology,21
+D0156,Dr. Diya Nair,Medical Oncology,Oncology,6
+D0157,Dr. Ananya Gupta,Hepatology,Gastroenterology,1
+D0158,Dr. Diya Menon,Interventional Radiology,Radiology,13
+D0159,Dr. Asha Khanna,Trauma Medicine,Emergency,9
+D0160,Dr. Sneha Sharma,Clinical Pathology,Pathology,28
+D0161,Dr. Saanvi Nair,Medical Oncology,Oncology,3
+D0162,Dr. Aditya Gupta,Cornea,Ophthalmology,6
+D0163,Dr. Kabir Reddy,Diabetology,Endocrinology,20
+D0164,Dr. Ananya Reddy,Audiology,ENT,23
+D0165,Dr. Aarav Verma,Clinical Neurology,Neurology,8
+D0166,Dr. Arjun Iyer,Joint Replacement,Orthopedics,4
+D0167,Dr. Ishaan Sharma,Retina,Ophthalmology,26
+D0168,Dr. Karan Khanna,Cosmetic Dermatology,Dermatology,6
+D0169,Dr. Diya Patel,Audiology,ENT,12
+D0170,Dr. Kabir Kapoor,Laparoscopic Surgery,Surgery,12
+D0171,Dr. Ira Sharma,Interventional Cardiology,Cardiology,26
+D0172,Dr. Vivaan Kapoor,Clinical Neurology,Neurology,30
+D0173,Dr. Shreya Chopra,Thyroid Specialist,Endocrinology,7
+D0174,Dr. Ishaan Gupta,General Pediatrics,Pediatrics,28
+D0175,Dr. Aditya Kapoor,Trauma Medicine,Emergency,26
+D0176,Dr. Vivaan Joshi,Hepatology,Gastroenterology,16
+D0177,Dr. Ira Bose,Neurosurgery,Neurology,7
+D0178,Dr. Pooja Nair,Sleep Medicine,Pulmonology,25
+D0179,Dr. Diya Iyer,Clinical Pathology,Pathology,24
+D0180,Dr. Arjun Mehta,Critical Care,Emergency,3
+D0181,Dr. Asha Chopra,Endoscopy,Gastroenterology,13
+D0182,Dr. Saanvi Mehta,Clinical Pathology,Pathology,20
+D0183,Dr. Meera Desai,Dialysis,Nephrology,9
+D0184,Dr. Aarav Bose,Endoscopy,Gastroenterology,11
+D0185,Dr. Shreya Sharma,Family Medicine,General Medicine,7
+D0186,Dr. Vikram Nair,General Pediatrics,Pediatrics,23
+D0187,Dr. Saanvi Reddy,Histopathology,Pathology,15
+D0188,Dr. Rohan Verma,Diagnostic Radiology,Radiology,1
+D0189,Dr. Meera Bose,Trauma Medicine,Emergency,2
+D0190,Dr. Aditya Joshi,Cornea,Ophthalmology,1
+D0191,Dr. Ishaan Mehta,Diagnostic Radiology,Radiology,15
+D0192,Dr. Aditya Sharma,Endoscopy,Gastroenterology,4
+D0193,Dr. Ishaan Singh,Hepatology,Gastroenterology,4
+D0194,Dr. Aadhya Nair,Neonatology,Pediatrics,14
+D0195,Dr. Sneha Khanna,Joint Replacement,Orthopedics,5
+D0196,Dr. Diya Chopra,Interventional Cardiology,Cardiology,21
+D0197,Dr. Sai Desai,Endoscopy,Gastroenterology,28
+D0198,Dr. Aadhya Mehta,Medical Dermatology,Dermatology,1
+D0199,Dr. Shreya Chopra,Medical Dermatology,Dermatology,15
+D0200,Dr. Vivaan Mitra,Hepatology,Gastroenterology,7
+D0201,Dr. Sneha Khanna,Neonatology,Pediatrics,16
+D0202,Dr. Sneha Desai,Trauma Medicine,Emergency,22
+D0203,Dr. Aditya Nair,Neurosurgery,Neurology,24
+D0204,Dr. Aditya Iyer,Neonatology,Pediatrics,14
+D0205,Dr. Ishaan Das,General Pediatrics,Pediatrics,15
+D0206,Dr. Aadhya Reddy,Endourology,Urology,15
+D0207,Dr. Ira Iyer,Joint Replacement,Orthopedics,20
+D0208,Dr. Ishaan Gupta,Cornea,Ophthalmology,1
+D0209,Dr. Vikram Menon,Hepatology,Gastroenterology,28
+D0210,Dr. Karan Joshi,Diagnostic Radiology,Radiology,19
+D0211,Dr. Asha Das,ENT Surgery,ENT,25
+D0212,Dr. Diya Sharma,Neurosurgery,Neurology,26
+D0213,Dr. Saanvi Nair,Histopathology,Pathology,7
+D0214,Dr. Aadhya Reddy,Hepatology,Gastroenterology,18
+D0215,Dr. Pooja Iyer,Radiation Oncology,Oncology,15
+D0216,Dr. Vivaan Singh,Histopathology,Pathology,13
+D0217,Dr. Ira Mehta,Adult Psychiatry,Psychiatry,19
+D0218,Dr. Meera Mehta,Interventional Pulmonology,Pulmonology,18
+D0219,Dr. Aarav Bose,Interventional Cardiology,Cardiology,4
+D0220,Dr. Ananya Nair,Cosmetic Dermatology,Dermatology,18
+D0221,Dr. Ira Verma,Clinical Pathology,Pathology,4
+D0222,Dr. Saanvi Das,Thyroid Specialist,Endocrinology,27
+D0223,Dr. Ira Gandhi,Hepatology,Gastroenterology,16
+D0224,Dr. Meera Chopra,Diabetology,Endocrinology,14
+D0225,Dr. Saanvi Verma,Endoscopy,Gastroenterology,30
+D0226,Dr. Ishaan Patel,Non-Invasive Cardiology,Cardiology,14
+D0227,Dr. Vikram Reddy,Retina,Ophthalmology,7
+D0228,Dr. Saanvi Menon,General Surgery,Surgery,13
+D0229,Dr. Meera Chopra,Laparoscopic Surgery,Surgery,24
+D0230,Dr. Asha Kapoor,Reconstructive Urology,Urology,14
+D0231,Dr. Vivaan Mehta,Joint Replacement,Orthopedics,10
+D0232,Dr. Pooja Desai,Transplant,Nephrology,13
+D0233,Dr. Asha Kumar,Clinical Pathology,Pathology,6
+D0234,Dr. Karan Gupta,Medical Oncology,Oncology,30
+D0235,Dr. Sneha Joshi,Audiology,ENT,11
+D0236,Dr. Arjun Joshi,Audiology,ENT,25
+D0237,Dr. Sai Iyer,Interventional Radiology,Radiology,6
+D0238,Dr. Asha Bose,Neonatology,Pediatrics,27
+D0239,Dr. Sneha Reddy,Neonatology,Pediatrics,11
+D0240,Dr. Rohan Nair,General Surgery,Surgery,19
+D0241,Dr. Rohan Reddy,Critical Care,Emergency,17
+D0242,Dr. Sai Chopra,Interventional Radiology,Radiology,25
+D0243,Dr. Meera Gandhi,Joint Replacement,Orthopedics,3
+D0244,Dr. Aarav Reddy,Reproductive Medicine,Gynecology,1
+D0245,Dr. Aditya Kumar,Internal Medicine,General Medicine,16
+D0246,Dr. Asha Das,Joint Replacement,Orthopedics,12
+D0247,Dr. Vivaan Mehta,Endoscopy,Gastroenterology,27
+D0248,Dr. Aarav Desai,Laparoscopic Surgery,Surgery,14
+D0249,Dr. Sai Menon,Audiology,ENT,18
+D0250,Dr. Karan Gandhi,Spine,Orthopedics,28
+D0251,Dr. Aditya Patel,Spine,Orthopedics,3
+D0252,Dr. Pooja Joshi,Trauma Medicine,Emergency,24
+D0253,Dr. Aditya Gupta,Thyroid Specialist,Endocrinology,8
+D0254,Dr. Sai Patel,Adult Psychiatry,Psychiatry,18
+D0255,Dr. Diya Mehta,Medical Oncology,Oncology,16
+D0256,Dr. Aarav Menon,Non-Invasive Cardiology,Cardiology,15
+D0257,Dr. Sneha Reddy,Endourology,Urology,22
+D0258,Dr. Rohan Bose,Clinical Pathology,Pathology,2
+D0259,Dr. Sai Reddy,Joint Replacement,Orthopedics,29
+D0260,Dr. Ananya Reddy,Clinical Pathology,Pathology,16
+D0261,Dr. Aarav Khanna,Reconstructive Urology,Urology,23
+D0262,Dr. Vivaan Joshi,Sleep Medicine,Pulmonology,29
+D0263,Dr. Ira Chopra,Joint Replacement,Orthopedics,10
+D0264,Dr. Karan Desai,Endoscopy,Gastroenterology,27
+D0265,Dr. Aditya Gandhi,Hepatology,Gastroenterology,11
+D0266,Dr. Ira Bose,Interventional Radiology,Radiology,19
+D0267,Dr. Rohan Verma,Non-Invasive Cardiology,Cardiology,24
+D0268,Dr. Meera Khanna,Reconstructive Urology,Urology,19
+D0269,Dr. Sai Sharma,Interventional Pulmonology,Pulmonology,10
+D0270,Dr. Aarav Verma,Audiology,ENT,22
+D0271,Dr. Ananya Singh,Obstetrics,Gynecology,17
+D0272,Dr. Ishaan Gandhi,Endourology,Urology,24
+D0273,Dr. Asha Singh,Histopathology,Pathology,23
+D0274,Dr. Ira Kumar,Reproductive Medicine,Gynecology,1
+D0275,Dr. Meera Chopra,Histopathology,Pathology,30
+D0276,Dr. Diya Mitra,Sleep Medicine,Pulmonology,30
+D0277,Dr. Ira Chopra,Trauma Medicine,Emergency,7
+D0278,Dr. Sai Das,Interventional Pulmonology,Pulmonology,16
+D0279,Dr. Karan Sharma,General Pediatrics,Pediatrics,11
+D0280,Dr. Sneha Khanna,Joint Replacement,Orthopedics,21
+D0281,Dr. Sai Chopra,Dialysis,Nephrology,18
+D0282,Dr. Diya Mehta,Spine,Orthopedics,1
+D0283,Dr. Ira Kapoor,Critical Care,Emergency,30
+D0284,Dr. Diya Verma,Interventional Pulmonology,Pulmonology,2
+D0285,Dr. Sneha Joshi,Laparoscopic Surgery,Surgery,29
+D0286,Dr. Asha Desai,Retina,Ophthalmology,22
+D0287,Dr. Vivaan Sharma,Diagnostic Radiology,Radiology,2
+D0288,Dr. Vivaan Patel,General Pediatrics,Pediatrics,29
+D0289,Dr. Aarav Joshi,Clinical Pathology,Pathology,6
+D0290,Dr. Asha Joshi,Cornea,Ophthalmology,29
+D0291,Dr. Sneha Gupta,Trauma Medicine,Emergency,28
+D0292,Dr. Arjun Verma,Joint Replacement,Orthopedics,24
+D0293,Dr. Aditya Gandhi,Hepatology,Gastroenterology,8
+D0294,Dr. Ananya Kapoor,General Surgery,Surgery,22
+D0295,Dr. Meera Patel,Spine,Orthopedics,21
+D0296,Dr. Rohan Iyer,Audiology,ENT,20
+D0297,Dr. Vikram Kapoor,Reproductive Medicine,Gynecology,14
+D0298,Dr. Aarav Kapoor,Trauma Medicine,Emergency,22
+D0299,Dr. Vikram Kumar,Non-Invasive Cardiology,Cardiology,29
+D0300,Dr. Arjun Verma,Sleep Medicine,Pulmonology,21
+D0301,Dr. Asha Mitra,Clinical Neurology,Neurology,26
+D0302,Dr. Diya Verma,Trauma Medicine,Emergency,20
+D0303,Dr. Karan Das,Reproductive Medicine,Gynecology,22
+D0304,Dr. Rohan Khanna,Dialysis,Nephrology,25
+D0305,Dr. Asha Singh,Neurosurgery,Neurology,25
+D0306,Dr. Ishaan Reddy,Histopathology,Pathology,8
+D0307,Dr. Asha Mehta,Interventional Cardiology,Cardiology,26
+D0308,Dr. Arjun Iyer,Critical Care,Emergency,17
+D0309,Dr. Diya Kapoor,Audiology,ENT,25
+D0310,Dr. Aditya Das,Joint Replacement,Orthopedics,5
+D0311,Dr. Sneha Desai,Child Psychiatry,Psychiatry,27
+D0312,Dr. Vikram Kapoor,Neurosurgery,Neurology,3
+D0313,Dr. Rohan Nair,Clinical Pathology,Pathology,24
+D0314,Dr. Asha Khanna,Clinical Neurology,Neurology,24
+D0315,Dr. Aditya Reddy,Medical Dermatology,Dermatology,25
+D0316,Dr. Kabir Gupta,Spine,Orthopedics,18
+D0317,Dr. Ira Bose,Diagnostic Radiology,Radiology,10
+D0318,Dr. Aditya Kapoor,Clinical Neurology,Neurology,4
+D0319,Dr. Asha Patel,Radiation Oncology,Oncology,10
+D0320,Dr. Sai Patel,Medical Dermatology,Dermatology,18
+D0321,Dr. Vikram Gupta,Interventional Radiology,Radiology,29
+D0322,Dr. Aditya Singh,Medical Oncology,Oncology,13
+D0323,Dr. Kabir Sharma,Hepatology,Gastroenterology,22
+D0324,Dr. Saanvi Kumar,Trauma Medicine,Emergency,17
+D0325,Dr. Meera Khanna,Medical Oncology,Oncology,14
+D0326,Dr. Ira Das,Neurosurgery,Neurology,26
+D0327,Dr. Asha Patel,Joint Replacement,Orthopedics,19
+D0328,Dr. Sneha Joshi,ENT Surgery,ENT,18
+D0329,Dr. Arjun Patel,General Surgery,Surgery,23
+D0330,Dr. Aditya Khanna,Cornea,Ophthalmology,8
+D0331,Dr. Aadhya Menon,Adult Psychiatry,Psychiatry,18
+D0332,Dr. Vikram Khanna,Thyroid Specialist,Endocrinology,16
+D0333,Dr. Aadhya Das,Child Psychiatry,Psychiatry,25
+D0334,Dr. Saanvi Bose,Thyroid Specialist,Endocrinology,11
+D0335,Dr. Diya Bose,Sleep Medicine,Pulmonology,17
+D0336,Dr. Aditya Mehta,Child Psychiatry,Psychiatry,18
+D0337,Dr. Aditya Mehta,Child Psychiatry,Psychiatry,19
+D0338,Dr. Vivaan Gupta,Radiation Oncology,Oncology,18
+D0339,Dr. Ishaan Menon,Clinical Pathology,Pathology,14
+D0340,Dr. Asha Desai,Reproductive Medicine,Gynecology,17
+D0341,Dr. Pooja Desai,Spine,Orthopedics,8
+D0342,Dr. Vikram Mitra,Non-Invasive Cardiology,Cardiology,15
+D0343,Dr. Aditya Nair,Endoscopy,Gastroenterology,17
+D0344,Dr. Asha Gandhi,Internal Medicine,General Medicine,21
+D0345,Dr. Arjun Desai,Endourology,Urology,11
+D0346,Dr. Ira Menon,Hepatology,Gastroenterology,29
+D0347,Dr. Arjun Iyer,Critical Care,Emergency,6
+D0348,Dr. Pooja Mitra,Non-Invasive Cardiology,Cardiology,23
+D0349,Dr. Pooja Patel,Histopathology,Pathology,19
+D0350,Dr. Pooja Joshi,Non-Invasive Cardiology,Cardiology,16
+D0351,Dr. Aditya Desai,Internal Medicine,General Medicine,12
+D0352,Dr. Sai Mehta,General Pediatrics,Pediatrics,15
+D0353,Dr. Aadhya Nair,Interventional Cardiology,Cardiology,11
+D0354,Dr. Sai Patel,Interventional Pulmonology,Pulmonology,7
+D0355,Dr. Aadhya Nair,Family Medicine,General Medicine,24
+D0356,Dr. Arjun Nair,Obstetrics,Gynecology,10
+D0357,Dr. Asha Chopra,Interventional Radiology,Radiology,19
+D0358,Dr. Diya Singh,Thyroid Specialist,Endocrinology,5
+D0359,Dr. Aadhya Kapoor,Radiation Oncology,Oncology,17
+D0360,Dr. Karan Khanna,Child Psychiatry,Psychiatry,25
+D0361,Dr. Karan Chopra,Interventional Pulmonology,Pulmonology,24
+D0362,Dr. Rohan Nair,Reproductive Medicine,Gynecology,19
+D0363,Dr. Arjun Singh,Obstetrics,Gynecology,4
+D0364,Dr. Sneha Khanna,Child Psychiatry,Psychiatry,1
+D0365,Dr. Diya Singh,Neonatology,Pediatrics,14
+D0366,Dr. Vikram Das,Histopathology,Pathology,17
+D0367,Dr. Asha Singh,Cosmetic Dermatology,Dermatology,14
+D0368,Dr. Arjun Khanna,General Surgery,Surgery,6
+D0369,Dr. Ananya Chopra,Trauma Medicine,Emergency,22
+D0370,Dr. Meera Mehta,Thyroid Specialist,Endocrinology,25
+D0371,Dr. Aarav Mitra,Clinical Pathology,Pathology,28
+D0372,Dr. Vikram Desai,Critical Care,Emergency,5
+D0373,Dr. Saanvi Mehta,Critical Care,Emergency,3
+D0374,Dr. Saanvi Reddy,Clinical Neurology,Neurology,22
+D0375,Dr. Karan Kumar,Transplant,Nephrology,24
+D0376,Dr. Vikram Singh,General Surgery,Surgery,28
+D0377,Dr. Shreya Verma,Critical Care,Emergency,15
+D0378,Dr. Asha Kapoor,Neonatology,Pediatrics,7
+D0379,Dr. Aadhya Desai,Adult Psychiatry,Psychiatry,11
+D0380,Dr. Aditya Nair,Medical Dermatology,Dermatology,10
+D0381,Dr. Pooja Das,Joint Replacement,Orthopedics,14
+D0382,Dr. Arjun Sharma,Spine,Orthopedics,3
+D0383,Dr. Sneha Mitra,Internal Medicine,General Medicine,14
+D0384,Dr. Aadhya Das,Reconstructive Urology,Urology,17
+D0385,Dr. Aadhya Sharma,Child Psychiatry,Psychiatry,4
+D0386,Dr. Saanvi Singh,Neurosurgery,Neurology,6
+D0387,Dr. Aarav Sharma,Medical Oncology,Oncology,20
+D0388,Dr. Vivaan Desai,Obstetrics,Gynecology,5
+D0389,Dr. Aditya Khanna,General Pediatrics,Pediatrics,10
+D0390,Dr. Aadhya Singh,ENT Surgery,ENT,7
+D0391,Dr. Saanvi Sharma,Clinical Pathology,Pathology,15
+D0392,Dr. Asha Gupta,Transplant,Nephrology,21
+D0393,Dr. Ira Singh,Radiation Oncology,Oncology,21
+D0394,Dr. Ira Kumar,Diabetology,Endocrinology,18
+D0395,Dr. Meera Chopra,Neurosurgery,Neurology,1
+D0396,Dr. Rohan Menon,Neonatology,Pediatrics,4
+D0397,Dr. Ishaan Reddy,Sleep Medicine,Pulmonology,11
+D0398,Dr. Karan Desai,Spine,Orthopedics,10
+D0399,Dr. Vikram Desai,Neonatology,Pediatrics,13
+D0400,Dr. Sai Menon,Neonatology,Pediatrics,24
+D0401,Dr. Arjun Verma,Interventional Pulmonology,Pulmonology,19
+D0402,Dr. Sai Khanna,Reconstructive Urology,Urology,22
+D0403,Dr. Ananya Singh,Interventional Radiology,Radiology,10
+D0404,Dr. Ishaan Bose,Sleep Medicine,Pulmonology,30
+D0405,Dr. Asha Nair,Joint Replacement,Orthopedics,18
+D0406,Dr. Asha Menon,Cornea,Ophthalmology,9
+D0407,Dr. Aadhya Gandhi,General Pediatrics,Pediatrics,30
+D0408,Dr. Saanvi Bose,Child Psychiatry,Psychiatry,9
+D0409,Dr. Vivaan Patel,Neurosurgery,Neurology,20
+D0410,Dr. Aadhya Das,Radiation Oncology,Oncology,28
+D0411,Dr. Aarav Khanna,General Surgery,Surgery,27
+D0412,Dr. Karan Mehta,Medical Dermatology,Dermatology,12
+D0413,Dr. Karan Patel,Radiation Oncology,Oncology,24
+D0414,Dr. Ananya Menon,Thyroid Specialist,Endocrinology,14
+D0415,Dr. Vikram Mehta,Dialysis,Nephrology,30
+D0416,Dr. Arjun Kapoor,Cosmetic Dermatology,Dermatology,2
+D0417,Dr. Meera Reddy,Medical Oncology,Oncology,10
+D0418,Dr. Sneha Bose,Endoscopy,Gastroenterology,18
+D0419,Dr. Karan Reddy,Audiology,ENT,6
+D0420,Dr. Aadhya Reddy,Reproductive Medicine,Gynecology,2
+D0421,Dr. Vivaan Mehta,Child Psychiatry,Psychiatry,17
+D0422,Dr. Vikram Khanna,Trauma Medicine,Emergency,26
+D0423,Dr. Sai Singh,Medical Dermatology,Dermatology,18
+D0424,Dr. Karan Sharma,Transplant,Nephrology,18
+D0425,Dr. Saanvi Joshi,Critical Care,Emergency,21
+D0426,Dr. Shreya Reddy,Diabetology,Endocrinology,14
+D0427,Dr. Ananya Sharma,Radiation Oncology,Oncology,22
+D0428,Dr. Arjun Kapoor,General Pediatrics,Pediatrics,11
+D0429,Dr. Saanvi Menon,General Pediatrics,Pediatrics,30
+D0430,Dr. Saanvi Desai,Spine,Orthopedics,19
+D0431,Dr. Kabir Menon,Cornea,Ophthalmology,16
+D0432,Dr. Shreya Das,Medical Oncology,Oncology,8
+D0433,Dr. Ira Nair,Clinical Pathology,Pathology,18
+D0434,Dr. Sai Sharma,Adult Psychiatry,Psychiatry,30
+D0435,Dr. Aditya Patel,Endourology,Urology,26
+D0436,Dr. Sneha Patel,Neonatology,Pediatrics,3
+D0437,Dr. Ira Mitra,Medical Dermatology,Dermatology,4
+D0438,Dr. Sneha Kumar,Spine,Orthopedics,21
+D0439,Dr. Karan Desai,Endoscopy,Gastroenterology,5
+D0440,Dr. Saanvi Kumar,Adult Psychiatry,Psychiatry,22
+D0441,Dr. Pooja Khanna,Reconstructive Urology,Urology,4
+D0442,Dr. Sneha Kumar,Audiology,ENT,26
+D0443,Dr. Pooja Joshi,Neonatology,Pediatrics,27
+D0444,Dr. Aadhya Kumar,Endourology,Urology,7
+D0445,Dr. Meera Joshi,Cosmetic Dermatology,Dermatology,29
+D0446,Dr. Ishaan Mehta,Histopathology,Pathology,28
+D0447,Dr. Asha Gandhi,Joint Replacement,Orthopedics,24
+D0448,Dr. Pooja Gandhi,Neonatology,Pediatrics,20
+D0449,Dr. Vikram Das,Diagnostic Radiology,Radiology,25
+D0450,Dr. Aadhya Mehta,Critical Care,Emergency,6
+D0451,Dr. Arjun Das,Obstetrics,Gynecology,28
+D0452,Dr. Aadhya Mehta,Clinical Neurology,Neurology,24
+D0453,Dr. Aditya Mitra,Family Medicine,General Medicine,25
+D0454,Dr. Arjun Gandhi,Non-Invasive Cardiology,Cardiology,17
+D0455,Dr. Sneha Verma,Adult Psychiatry,Psychiatry,14
+D0456,Dr. Aarav Kumar,Hepatology,Gastroenterology,5
+D0457,Dr. Aarav Bose,Laparoscopic Surgery,Surgery,15
+D0458,Dr. Vikram Joshi,Cosmetic Dermatology,Dermatology,23
+D0459,Dr. Aditya Menon,Cosmetic Dermatology,Dermatology,10
+D0460,Dr. Aditya Kapoor,Hepatology,Gastroenterology,2
+D0461,Dr. Pooja Patel,General Pediatrics,Pediatrics,12
+D0462,Dr. Vivaan Bose,Obstetrics,Gynecology,11
+D0463,Dr. Ananya Mehta,Trauma Medicine,Emergency,7
+D0464,Dr. Vikram Khanna,Clinical Pathology,Pathology,7
+D0465,Dr. Vivaan Gupta,Radiation Oncology,Oncology,19
+D0466,Dr. Shreya Verma,Clinical Pathology,Pathology,25
+D0467,Dr. Arjun Gandhi,General Pediatrics,Pediatrics,7
+D0468,Dr. Vikram Bose,Audiology,ENT,14
+D0469,Dr. Ira Gupta,Adult Psychiatry,Psychiatry,12
+D0470,Dr. Sneha Verma,General Surgery,Surgery,28
+D0471,Dr. Asha Reddy,Hepatology,Gastroenterology,10
+D0472,Dr. Ira Iyer,Critical Care,Emergency,27
+D0473,Dr. Diya Patel,Internal Medicine,General Medicine,5
+D0474,Dr. Pooja Gupta,Neurosurgery,Neurology,23
+D0475,Dr. Diya Bose,Joint Replacement,Orthopedics,7
+D0476,Dr. Sneha Verma,Adult Psychiatry,Psychiatry,6
+D0477,Dr. Vikram Desai,Reproductive Medicine,Gynecology,20
+D0478,Dr. Asha Mitra,Child Psychiatry,Psychiatry,24
+D0479,Dr. Meera Nair,Trauma Medicine,Emergency,28
+D0480,Dr. Karan Sharma,Dialysis,Nephrology,2
+D0481,Dr. Rohan Singh,Clinical Pathology,Pathology,29
+D0482,Dr. Vikram Mitra,Adult Psychiatry,Psychiatry,13
+D0483,Dr. Ira Das,Transplant,Nephrology,16
+D0484,Dr. Karan Gandhi,ENT Surgery,ENT,8
+D0485,Dr. Aarav Bose,Medical Dermatology,Dermatology,13
+D0486,Dr. Shreya Khanna,Internal Medicine,General Medicine,14
+D0487,Dr. Aditya Das,Reproductive Medicine,Gynecology,5
+D0488,Dr. Asha Gupta,Critical Care,Emergency,23
+D0489,Dr. Rohan Das,Retina,Ophthalmology,3
+D0490,Dr. Aadhya Menon,Joint Replacement,Orthopedics,14
+D0491,Dr. Rohan Sharma,Diagnostic Radiology,Radiology,23
+D0492,Dr. Ananya Reddy,Retina,Ophthalmology,25
+D0493,Dr. Meera Sharma,Endourology,Urology,23
+D0494,Dr. Aditya Bose,Diabetology,Endocrinology,13
+D0495,Dr. Ishaan Kapoor,Cornea,Ophthalmology,17
+D0496,Dr. Asha Iyer,Histopathology,Pathology,9
+D0497,Dr. Shreya Reddy,Non-Invasive Cardiology,Cardiology,7
+D0498,Dr. Vivaan Das,Neonatology,Pediatrics,18
+D0499,Dr. Rohan Mehta,Joint Replacement,Orthopedics,21
+D0500,Dr. Sneha Das,Diabetology,Endocrinology,11
+D0501,Dr. Shreya Khanna,Radiation Oncology,Oncology,16
+D0502,Dr. Ananya Reddy,Radiation Oncology,Oncology,26
+D0503,Dr. Pooja Bose,Diagnostic Radiology,Radiology,18
+D0504,Dr. Aditya Gandhi,General Surgery,Surgery,7
+D0505,Dr. Saanvi Das,Diagnostic Radiology,Radiology,25
+D0506,Dr. Aadhya Verma,Diagnostic Radiology,Radiology,4
+D0507,Dr. Shreya Reddy,Interventional Radiology,Radiology,19
+D0508,Dr. Shreya Joshi,Joint Replacement,Orthopedics,22
+D0509,Dr. Vikram Iyer,Transplant,Nephrology,24
+D0510,Dr. Vikram Chopra,Neurosurgery,Neurology,24
+D0511,Dr. Sai Das,Neonatology,Pediatrics,24
+D0512,Dr. Aarav Singh,Histopathology,Pathology,21
+D0513,Dr. Aarav Sharma,Neurosurgery,Neurology,29
+D0514,Dr. Sneha Gupta,Hepatology,Gastroenterology,11
+D0515,Dr. Aditya Joshi,Sleep Medicine,Pulmonology,13
+D0516,Dr. Sai Khanna,Adult Psychiatry,Psychiatry,28
+D0517,Dr. Saanvi Desai,Endourology,Urology,6
+D0518,Dr. Asha Khanna,Reproductive Medicine,Gynecology,28
+D0519,Dr. Aadhya Menon,ENT Surgery,ENT,13
+D0520,Dr. Pooja Singh,Interventional Pulmonology,Pulmonology,2
+D0521,Dr. Meera Kumar,Spine,Orthopedics,22
+D0522,Dr. Vikram Kumar,Retina,Ophthalmology,14
+D0523,Dr. Ira Reddy,Medical Dermatology,Dermatology,13
+D0524,Dr. Rohan Desai,Medical Oncology,Oncology,5
+D0525,Dr. Ananya Nair,Dialysis,Nephrology,3
+D0526,Dr. Shreya Mitra,Medical Oncology,Oncology,24
+D0527,Dr. Ishaan Singh,General Surgery,Surgery,4
+D0528,Dr. Ishaan Mitra,Audiology,ENT,14
+D0529,Dr. Kabir Kumar,Audiology,ENT,18
+D0530,Dr. Aarav Patel,Thyroid Specialist,Endocrinology,11
+D0531,Dr. Vikram Kumar,Critical Care,Emergency,19
+D0532,Dr. Karan Chopra,Child Psychiatry,Psychiatry,2
+D0533,Dr. Meera Reddy,Child Psychiatry,Psychiatry,2
+D0534,Dr. Aditya Reddy,Endoscopy,Gastroenterology,3
+D0535,Dr. Aadhya Menon,Diabetology,Endocrinology,29
+D0536,Dr. Kabir Gupta,Clinical Neurology,Neurology,23
+D0537,Dr. Shreya Nair,Neonatology,Pediatrics,26
+D0538,Dr. Ira Das,Obstetrics,Gynecology,16
+D0539,Dr. Shreya Sharma,Laparoscopic Surgery,Surgery,30
+D0540,Dr. Kabir Singh,Spine,Orthopedics,1
+D0541,Dr. Sneha Gandhi,Reconstructive Urology,Urology,10
+D0542,Dr. Aadhya Khanna,General Surgery,Surgery,6
+D0543,Dr. Ishaan Reddy,Transplant,Nephrology,27
+D0544,Dr. Arjun Kumar,Diagnostic Radiology,Radiology,17
+D0545,Dr. Ishaan Iyer,Family Medicine,General Medicine,19
+D0546,Dr. Shreya Chopra,Transplant,Nephrology,12
+D0547,Dr. Vivaan Kapoor,Reproductive Medicine,Gynecology,20
+D0548,Dr. Karan Verma,Hepatology,Gastroenterology,29
+D0549,Dr. Ananya Das,Interventional Radiology,Radiology,16
+D0550,Dr. Ananya Desai,Diabetology,Endocrinology,24
+D0551,Dr. Aditya Nair,Histopathology,Pathology,2
+D0552,Dr. Ananya Verma,Interventional Cardiology,Cardiology,15
+D0553,Dr. Kabir Reddy,Reconstructive Urology,Urology,23
+D0554,Dr. Meera Chopra,General Pediatrics,Pediatrics,19
+D0555,Dr. Aarav Verma,Endoscopy,Gastroenterology,1
+D0556,Dr. Asha Joshi,Family Medicine,General Medicine,6
+D0557,Dr. Shreya Kumar,Interventional Pulmonology,Pulmonology,18
+D0558,Dr. Sai Gupta,Thyroid Specialist,Endocrinology,29
+D0559,Dr. Kabir Singh,Joint Replacement,Orthopedics,19
+D0560,Dr. Aadhya Gandhi,Sleep Medicine,Pulmonology,30
+D0561,Dr. Rohan Verma,Medical Dermatology,Dermatology,22
+D0562,Dr. Pooja Khanna,Reconstructive Urology,Urology,3
+D0563,Dr. Saanvi Kumar,Hepatology,Gastroenterology,28
+D0564,Dr. Asha Iyer,Spine,Orthopedics,5
+D0565,Dr. Aditya Joshi,Medical Oncology,Oncology,30
+D0566,Dr. Saanvi Mehta,Cosmetic Dermatology,Dermatology,3
+D0567,Dr. Sneha Nair,Reproductive Medicine,Gynecology,28
+D0568,Dr. Shreya Joshi,Interventional Radiology,Radiology,7
+D0569,Dr. Pooja Khanna,Trauma Medicine,Emergency,7
+D0570,Dr. Kabir Sharma,Diagnostic Radiology,Radiology,28
+D0571,Dr. Aadhya Iyer,Child Psychiatry,Psychiatry,1
+D0572,Dr. Kabir Gupta,Neonatology,Pediatrics,22
+D0573,Dr. Karan Das,Cornea,Ophthalmology,13
+D0574,Dr. Ira Nair,Critical Care,Emergency,13
+D0575,Dr. Diya Joshi,General Surgery,Surgery,15
+D0576,Dr. Diya Desai,Reproductive Medicine,Gynecology,19
+D0577,Dr. Ishaan Chopra,Histopathology,Pathology,7
+D0578,Dr. Ira Desai,Adult Psychiatry,Psychiatry,17
+D0579,Dr. Ishaan Sharma,Neonatology,Pediatrics,10
+D0580,Dr. Aarav Reddy,Clinical Pathology,Pathology,19
+D0581,Dr. Karan Joshi,Critical Care,Emergency,28
+D0582,Dr. Sneha Joshi,Histopathology,Pathology,26
+D0583,Dr. Ananya Desai,Critical Care,Emergency,18
+D0584,Dr. Aditya Sharma,ENT Surgery,ENT,30
+D0585,Dr. Ishaan Gandhi,Clinical Neurology,Neurology,8
+D0586,Dr. Vikram Gandhi,Medical Oncology,Oncology,8
+D0587,Dr. Vikram Reddy,Medical Oncology,Oncology,27
+D0588,Dr. Arjun Das,Medical Oncology,Oncology,30
+D0589,Dr. Aditya Desai,Dialysis,Nephrology,9
+D0590,Dr. Shreya Khanna,Reconstructive Urology,Urology,13
+D0591,Dr. Sneha Nair,Interventional Radiology,Radiology,25
+D0592,Dr. Ananya Khanna,Neonatology,Pediatrics,27
+D0593,Dr. Sneha Bose,Neonatology,Pediatrics,13
+D0594,Dr. Meera Reddy,Laparoscopic Surgery,Surgery,2
+D0595,Dr. Kabir Iyer,Critical Care,Emergency,7
+D0596,Dr. Ishaan Gandhi,Medical Dermatology,Dermatology,7
+D0597,Dr. Rohan Menon,Laparoscopic Surgery,Surgery,20
+D0598,Dr. Kabir Kapoor,Thyroid Specialist,Endocrinology,22
+D0599,Dr. Kabir Singh,Non-Invasive Cardiology,Cardiology,1
+D0600,Dr. Aditya Joshi,General Pediatrics,Pediatrics,14
+D0601,Dr. Sneha Mitra,Endoscopy,Gastroenterology,6
+D0602,Dr. Asha Kumar,General Surgery,Surgery,13
+D0603,Dr. Karan Patel,Clinical Neurology,Neurology,1
+D0604,Dr. Aditya Verma,Medical Oncology,Oncology,21
+D0605,Dr. Vikram Iyer,Diabetology,Endocrinology,20
+D0606,Dr. Kabir Kumar,Joint Replacement,Orthopedics,22
+D0607,Dr. Kabir Joshi,Spine,Orthopedics,27
+D0608,Dr. Kabir Mehta,Interventional Cardiology,Cardiology,27
+D0609,Dr. Shreya Menon,ENT Surgery,ENT,21
+D0610,Dr. Sai Sharma,Obstetrics,Gynecology,21
+D0611,Dr. Ira Iyer,ENT Surgery,ENT,3
+D0612,Dr. Meera Singh,Non-Invasive Cardiology,Cardiology,26
+D0613,Dr. Saanvi Das,Cosmetic Dermatology,Dermatology,15
+D0614,Dr. Rohan Sharma,Histopathology,Pathology,18
+D0615,Dr. Vivaan Khanna,Joint Replacement,Orthopedics,23
+D0616,Dr. Diya Desai,Diagnostic Radiology,Radiology,10
+D0617,Dr. Ananya Joshi,Obstetrics,Gynecology,15
+D0618,Dr. Diya Khanna,Reconstructive Urology,Urology,28
+D0619,Dr. Aadhya Chopra,Internal Medicine,General Medicine,8
+D0620,Dr. Sneha Chopra,Child Psychiatry,Psychiatry,5
+D0621,Dr. Saanvi Iyer,Endourology,Urology,9
+D0622,Dr. Diya Joshi,Joint Replacement,Orthopedics,1
+D0623,Dr. Saanvi Menon,Child Psychiatry,Psychiatry,29
+D0624,Dr. Pooja Verma,Diabetology,Endocrinology,19
+D0625,Dr. Arjun Sharma,Radiation Oncology,Oncology,8
+D0626,Dr. Ananya Mitra,Interventional Pulmonology,Pulmonology,5
+D0627,Dr. Diya Bose,Clinical Neurology,Neurology,18
+D0628,Dr. Rohan Desai,Neurosurgery,Neurology,26
+D0629,Dr. Rohan Iyer,Transplant,Nephrology,9
+D0630,Dr. Shreya Gupta,Neurosurgery,Neurology,29
+D0631,Dr. Karan Das,Internal Medicine,General Medicine,1
+D0632,Dr. Karan Mehta,Critical Care,Emergency,19
+D0633,Dr. Ishaan Sharma,Cosmetic Dermatology,Dermatology,30
+D0634,Dr. Ishaan Singh,Cosmetic Dermatology,Dermatology,14
+D0635,Dr. Ishaan Nair,Endourology,Urology,14
+D0636,Dr. Sai Singh,Child Psychiatry,Psychiatry,4
+D0637,Dr. Pooja Kumar,Sleep Medicine,Pulmonology,7
+D0638,Dr. Arjun Das,General Pediatrics,Pediatrics,20
+D0639,Dr. Ira Chopra,Cosmetic Dermatology,Dermatology,11
+D0640,Dr. Ananya Gandhi,Trauma Medicine,Emergency,2
+D0641,Dr. Sai Patel,Trauma Medicine,Emergency,18
+D0642,Dr. Pooja Menon,Cornea,Ophthalmology,10
+D0643,Dr. Shreya Bose,Clinical Neurology,Neurology,1
+D0644,Dr. Vivaan Kapoor,Histopathology,Pathology,23
+D0645,Dr. Vivaan Mitra,Critical Care,Emergency,14
+D0646,Dr. Sai Gandhi,General Pediatrics,Pediatrics,25
+D0647,Dr. Ananya Menon,Diabetology,Endocrinology,28
+D0648,Dr. Pooja Mitra,General Surgery,Surgery,10
+D0649,Dr. Shreya Reddy,Cosmetic Dermatology,Dermatology,18
+D0650,Dr. Sai Desai,Thyroid Specialist,Endocrinology,7
+D0651,Dr. Shreya Verma,Cosmetic Dermatology,Dermatology,30
+D0652,Dr. Rohan Reddy,Dialysis,Nephrology,24
+D0653,Dr. Vivaan Gupta,Critical Care,Emergency,19
+D0654,Dr. Ira Chopra,Medical Oncology,Oncology,4
+D0655,Dr. Sai Mitra,Histopathology,Pathology,14
+D0656,Dr. Karan Bose,Cosmetic Dermatology,Dermatology,9
+D0657,Dr. Pooja Das,General Surgery,Surgery,4
+D0658,Dr. Kabir Menon,General Pediatrics,Pediatrics,6
+D0659,Dr. Asha Gandhi,General Pediatrics,Pediatrics,24
+D0660,Dr. Ira Nair,Obstetrics,Gynecology,26
+D0661,Dr. Vikram Desai,Cosmetic Dermatology,Dermatology,2
+D0662,Dr. Ishaan Menon,ENT Surgery,ENT,1
+D0663,Dr. Sai Singh,Non-Invasive Cardiology,Cardiology,23
+D0664,Dr. Vikram Patel,Interventional Radiology,Radiology,17
+D0665,Dr. Sai Gupta,Obstetrics,Gynecology,4
+D0666,Dr. Vikram Bose,Thyroid Specialist,Endocrinology,5
+D0667,Dr. Sai Chopra,Retina,Ophthalmology,18
+D0668,Dr. Saanvi Mitra,Interventional Cardiology,Cardiology,26
+D0669,Dr. Meera Gupta,Clinical Pathology,Pathology,13
+D0670,Dr. Shreya Khanna,Transplant,Nephrology,20
+D0671,Dr. Saanvi Kapoor,General Surgery,Surgery,27
+D0672,Dr. Rohan Gandhi,Histopathology,Pathology,27
+D0673,Dr. Pooja Sharma,Child Psychiatry,Psychiatry,26
+D0674,Dr. Rohan Kumar,Reproductive Medicine,Gynecology,11
+D0675,Dr. Rohan Gupta,Neurosurgery,Neurology,23
+D0676,Dr. Sai Joshi,Reproductive Medicine,Gynecology,20
+D0677,Dr. Aditya Chopra,Cornea,Ophthalmology,27
+D0678,Dr. Aarav Joshi,Diagnostic Radiology,Radiology,1
+D0679,Dr. Ishaan Iyer,Family Medicine,General Medicine,12
+D0680,Dr. Sai Sharma,ENT Surgery,ENT,13
+D0681,Dr. Kabir Nair,General Pediatrics,Pediatrics,26
+D0682,Dr. Ira Das,Diabetology,Endocrinology,4
+D0683,Dr. Diya Gandhi,Sleep Medicine,Pulmonology,27
+D0684,Dr. Sai Reddy,Transplant,Nephrology,12
+D0685,Dr. Sai Kumar,Clinical Pathology,Pathology,6
+D0686,Dr. Aarav Desai,Retina,Ophthalmology,13
+D0687,Dr. Vikram Gupta,Trauma Medicine,Emergency,14
+D0688,Dr. Sai Gupta,Thyroid Specialist,Endocrinology,12
+D0689,Dr. Shreya Mehta,Retina,Ophthalmology,21
+D0690,Dr. Sai Reddy,ENT Surgery,ENT,29
+D0691,Dr. Pooja Khanna,Trauma Medicine,Emergency,20
+D0692,Dr. Ira Kapoor,Family Medicine,General Medicine,2
+D0693,Dr. Diya Chopra,Laparoscopic Surgery,Surgery,26
+D0694,Dr. Pooja Khanna,Interventional Cardiology,Cardiology,27
+D0695,Dr. Karan Mehta,Interventional Cardiology,Cardiology,22
+D0696,Dr. Aditya Gupta,Family Medicine,General Medicine,12
+D0697,Dr. Ananya Singh,Obstetrics,Gynecology,6
+D0698,Dr. Aarav Kumar,Sleep Medicine,Pulmonology,22
+D0699,Dr. Vivaan Bose,Reconstructive Urology,Urology,4
+D0700,Dr. Asha Iyer,Hepatology,Gastroenterology,24
+D0701,Dr. Aditya Chopra,Interventional Radiology,Radiology,1
+D0702,Dr. Meera Das,Interventional Radiology,Radiology,26
+D0703,Dr. Aditya Nair,Diagnostic Radiology,Radiology,8
+D0704,Dr. Ananya Menon,General Pediatrics,Pediatrics,8
+D0705,Dr. Arjun Kumar,Neurosurgery,Neurology,21
+D0706,Dr. Sai Gupta,Cornea,Ophthalmology,25
+D0707,Dr. Asha Verma,Internal Medicine,General Medicine,12
+D0708,Dr. Meera Menon,Cornea,Ophthalmology,25
+D0709,Dr. Ananya Bose,Cornea,Ophthalmology,26
+D0710,Dr. Arjun Chopra,Reconstructive Urology,Urology,4
+D0711,Dr. Aditya Verma,Retina,Ophthalmology,16
+D0712,Dr. Asha Sharma,Endourology,Urology,14
+D0713,Dr. Vivaan Mitra,Radiation Oncology,Oncology,14
+D0714,Dr. Rohan Sharma,Retina,Ophthalmology,2
+D0715,Dr. Pooja Reddy,Medical Dermatology,Dermatology,17
+D0716,Dr. Aditya Iyer,Endourology,Urology,24
+D0717,Dr. Vivaan Kumar,Thyroid Specialist,Endocrinology,8
+D0718,Dr. Vivaan Kapoor,General Surgery,Surgery,27
+D0719,Dr. Vivaan Joshi,Reproductive Medicine,Gynecology,7
+D0720,Dr. Asha Kumar,Hepatology,Gastroenterology,13
+D0721,Dr. Aarav Joshi,Medical Oncology,Oncology,29
+D0722,Dr. Sneha Khanna,Endoscopy,Gastroenterology,11
+D0723,Dr. Sneha Mehta,Family Medicine,General Medicine,19
+D0724,Dr. Vikram Menon,Child Psychiatry,Psychiatry,19
+D0725,Dr. Shreya Khanna,Interventional Radiology,Radiology,10
+D0726,Dr. Vikram Iyer,Audiology,ENT,24
+D0727,Dr. Ananya Chopra,Thyroid Specialist,Endocrinology,28
+D0728,Dr. Aarav Das,Interventional Radiology,Radiology,11
+D0729,Dr. Sneha Patel,General Surgery,Surgery,16
+D0730,Dr. Meera Chopra,Laparoscopic Surgery,Surgery,8
+D0731,Dr. Ishaan Chopra,Medical Dermatology,Dermatology,2
+D0732,Dr. Aarav Patel,Cosmetic Dermatology,Dermatology,14
+D0733,Dr. Pooja Kapoor,Sleep Medicine,Pulmonology,17
+D0734,Dr. Vikram Khanna,Obstetrics,Gynecology,17
+D0735,Dr. Aarav Kumar,Radiation Oncology,Oncology,11
+D0736,Dr. Arjun Gandhi,Trauma Medicine,Emergency,1
+D0737,Dr. Pooja Bose,Medical Dermatology,Dermatology,19
+D0738,Dr. Meera Kumar,Spine,Orthopedics,1
+D0739,Dr. Shreya Singh,Retina,Ophthalmology,24
+D0740,Dr. Sneha Joshi,Cornea,Ophthalmology,24
+D0741,Dr. Ira Verma,Laparoscopic Surgery,Surgery,25
+D0742,Dr. Sai Joshi,Neurosurgery,Neurology,4
+D0743,Dr. Vikram Reddy,ENT Surgery,ENT,24
+D0744,Dr. Shreya Bose,Interventional Cardiology,Cardiology,7
+D0745,Dr. Vikram Bose,Cornea,Ophthalmology,20
+D0746,Dr. Diya Sharma,Clinical Pathology,Pathology,1
+D0747,Dr. Ananya Das,Non-Invasive Cardiology,Cardiology,28
+D0748,Dr. Sai Sharma,Hepatology,Gastroenterology,11
+D0749,Dr. Ishaan Das,Internal Medicine,General Medicine,13
+D0750,Dr. Vikram Gupta,Reconstructive Urology,Urology,3
+D0751,Dr. Arjun Mehta,Thyroid Specialist,Endocrinology,24
+D0752,Dr. Meera Kapoor,Transplant,Nephrology,8
+D0753,Dr. Ishaan Bose,Sleep Medicine,Pulmonology,12
+D0754,Dr. Meera Khanna,Clinical Neurology,Neurology,2
+D0755,Dr. Ira Mehta,Neonatology,Pediatrics,23
+D0756,Dr. Rohan Nair,General Surgery,Surgery,1
+D0757,Dr. Pooja Verma,Adult Psychiatry,Psychiatry,20
+D0758,Dr. Kabir Mitra,Laparoscopic Surgery,Surgery,14
+D0759,Dr. Karan Menon,Child Psychiatry,Psychiatry,30
+D0760,Dr. Ananya Gupta,Endoscopy,Gastroenterology,15
+D0761,Dr. Aditya Khanna,Clinical Neurology,Neurology,23
+D0762,Dr. Vivaan Das,Family Medicine,General Medicine,4
+D0763,Dr. Ira Sharma,Histopathology,Pathology,20
+D0764,Dr. Arjun Reddy,General Surgery,Surgery,30
+D0765,Dr. Meera Patel,Spine,Orthopedics,27
+D0766,Dr. Meera Mehta,General Pediatrics,Pediatrics,7
+D0767,Dr. Vikram Desai,Clinical Pathology,Pathology,1
+D0768,Dr. Vikram Joshi,Endoscopy,Gastroenterology,5
+D0769,Dr. Aditya Iyer,Spine,Orthopedics,14
+D0770,Dr. Arjun Desai,Reconstructive Urology,Urology,30
+D0771,Dr. Vivaan Joshi,Dialysis,Nephrology,6
+D0772,Dr. Ira Gupta,Joint Replacement,Orthopedics,23
+D0773,Dr. Shreya Iyer,Internal Medicine,General Medicine,7
+D0774,Dr. Kabir Desai,Reproductive Medicine,Gynecology,12
+D0775,Dr. Pooja Reddy,Thyroid Specialist,Endocrinology,7
+D0776,Dr. Arjun Menon,Interventional Radiology,Radiology,18
+D0777,Dr. Kabir Mehta,Laparoscopic Surgery,Surgery,22
+D0778,Dr. Sai Singh,Spine,Orthopedics,16
+D0779,Dr. Diya Sharma,Interventional Cardiology,Cardiology,9
+D0780,Dr. Diya Bose,Medical Dermatology,Dermatology,7
+D0781,Dr. Vivaan Patel,Diabetology,Endocrinology,23
+D0782,Dr. Arjun Chopra,Internal Medicine,General Medicine,29
+D0783,Dr. Vikram Das,Spine,Orthopedics,14
+D0784,Dr. Sai Singh,Diabetology,Endocrinology,2
+D0785,Dr. Pooja Kumar,Interventional Radiology,Radiology,30
+D0786,Dr. Saanvi Verma,Adult Psychiatry,Psychiatry,29
+D0787,Dr. Ira Gupta,Child Psychiatry,Psychiatry,13
+D0788,Dr. Sai Khanna,Neonatology,Pediatrics,30
+D0789,Dr. Ishaan Menon,Histopathology,Pathology,7
+D0790,Dr. Sneha Bose,Medical Oncology,Oncology,25
+D0791,Dr. Sneha Patel,Clinical Neurology,Neurology,19
+D0792,Dr. Diya Chopra,Interventional Pulmonology,Pulmonology,2
+D0793,Dr. Sneha Khanna,Neurosurgery,Neurology,6
+D0794,Dr. Saanvi Mehta,Thyroid Specialist,Endocrinology,12
+D0795,Dr. Vivaan Verma,Diabetology,Endocrinology,29
+D0796,Dr. Ananya Bose,Trauma Medicine,Emergency,2
+D0797,Dr. Aadhya Mehta,Reconstructive Urology,Urology,17
+D0798,Dr. Arjun Patel,Diagnostic Radiology,Radiology,26
+D0799,Dr. Aarav Kapoor,Non-Invasive Cardiology,Cardiology,12
+D0800,Dr. Vivaan Mitra,Child Psychiatry,Psychiatry,20
+D0801,Dr. Ira Das,Medical Dermatology,Dermatology,9
+D0802,Dr. Pooja Mehta,Spine,Orthopedics,26
+D0803,Dr. Ananya Kapoor,Transplant,Nephrology,14
+D0804,Dr. Ananya Menon,Dialysis,Nephrology,3
+D0805,Dr. Sneha Desai,Transplant,Nephrology,3
+D0806,Dr. Meera Patel,Laparoscopic Surgery,Surgery,22
+D0807,Dr. Meera Menon,Reconstructive Urology,Urology,29
+D0808,Dr. Vivaan Kapoor,Endoscopy,Gastroenterology,16
+D0809,Dr. Vivaan Gupta,Interventional Cardiology,Cardiology,6
+D0810,Dr. Aadhya Mitra,Non-Invasive Cardiology,Cardiology,8
+D0811,Dr. Ishaan Das,Transplant,Nephrology,13
+D0812,Dr. Diya Singh,Histopathology,Pathology,26
+D0813,Dr. Ananya Mitra,Clinical Neurology,Neurology,22
+D0814,Dr. Arjun Bose,General Pediatrics,Pediatrics,8
+D0815,Dr. Sneha Desai,Histopathology,Pathology,8
+D0816,Dr. Ira Bose,General Pediatrics,Pediatrics,7
+D0817,Dr. Pooja Gupta,Interventional Radiology,Radiology,5
+D0818,Dr. Meera Gandhi,Trauma Medicine,Emergency,20
+D0819,Dr. Kabir Gandhi,Trauma Medicine,Emergency,1
+D0820,Dr. Aadhya Iyer,ENT Surgery,ENT,13
+D0821,Dr. Diya Kapoor,Retina,Ophthalmology,22
+D0822,Dr. Ananya Singh,Obstetrics,Gynecology,8
+D0823,Dr. Asha Das,Audiology,ENT,11
+D0824,Dr. Pooja Sharma,Trauma Medicine,Emergency,30
+D0825,Dr. Saanvi Gupta,Diagnostic Radiology,Radiology,20
+D0826,Dr. Saanvi Desai,Critical Care,Emergency,7
+D0827,Dr. Ishaan Kumar,Critical Care,Emergency,19
+D0828,Dr. Ishaan Gupta,Diabetology,Endocrinology,29
+D0829,Dr. Arjun Joshi,General Surgery,Surgery,30
+D0830,Dr. Aarav Khanna,Cornea,Ophthalmology,21
+D0831,Dr. Meera Iyer,Neurosurgery,Neurology,7
+D0832,Dr. Arjun Menon,Joint Replacement,Orthopedics,16
+D0833,Dr. Meera Nair,Obstetrics,Gynecology,12
+D0834,Dr. Rohan Chopra,Neurosurgery,Neurology,11
+D0835,Dr. Vikram Joshi,Adult Psychiatry,Psychiatry,25
+D0836,Dr. Ishaan Bose,General Pediatrics,Pediatrics,9
+D0837,Dr. Saanvi Bose,Sleep Medicine,Pulmonology,7
+D0838,Dr. Meera Iyer,Clinical Pathology,Pathology,20
+D0839,Dr. Karan Singh,Obstetrics,Gynecology,22
+D0840,Dr. Vivaan Nair,Clinical Pathology,Pathology,29
+D0841,Dr. Aarav Gupta,Obstetrics,Gynecology,14
+D0842,Dr. Aadhya Chopra,Audiology,ENT,4
+D0843,Dr. Aarav Chopra,Endoscopy,Gastroenterology,3
+D0844,Dr. Aadhya Patel,Non-Invasive Cardiology,Cardiology,9
+D0845,Dr. Aditya Reddy,Clinical Neurology,Neurology,5
+D0846,Dr. Ananya Mehta,Histopathology,Pathology,24
+D0847,Dr. Asha Iyer,Dialysis,Nephrology,3
+D0848,Dr. Pooja Gandhi,Medical Oncology,Oncology,25
+D0849,Dr. Vivaan Patel,Reconstructive Urology,Urology,1
+D0850,Dr. Pooja Verma,Laparoscopic Surgery,Surgery,18
+D0851,Dr. Meera Gupta,Medical Dermatology,Dermatology,13
+D0852,Dr. Aarav Mitra,Internal Medicine,General Medicine,4
+D0853,Dr. Arjun Singh,Reproductive Medicine,Gynecology,18
+D0854,Dr. Shreya Iyer,General Pediatrics,Pediatrics,9
+D0855,Dr. Ishaan Menon,Interventional Pulmonology,Pulmonology,29
+D0856,Dr. Rohan Gupta,Interventional Cardiology,Cardiology,7
+D0857,Dr. Shreya Patel,Internal Medicine,General Medicine,15
+D0858,Dr. Vikram Desai,Diagnostic Radiology,Radiology,13
+D0859,Dr. Arjun Patel,Child Psychiatry,Psychiatry,2
+D0860,Dr. Rohan Mitra,Diagnostic Radiology,Radiology,11
+D0861,Dr. Kabir Kapoor,General Surgery,Surgery,27
+D0862,Dr. Meera Kapoor,General Pediatrics,Pediatrics,4
+D0863,Dr. Diya Sharma,Interventional Radiology,Radiology,29
+D0864,Dr. Shreya Mehta,Hepatology,Gastroenterology,22
+D0865,Dr. Aadhya Gandhi,Histopathology,Pathology,18
+D0866,Dr. Diya Patel,Endourology,Urology,25
+D0867,Dr. Arjun Mehta,General Pediatrics,Pediatrics,3
+D0868,Dr. Pooja Mehta,Endoscopy,Gastroenterology,2
+D0869,Dr. Sneha Kapoor,Audiology,ENT,12
+D0870,Dr. Kabir Reddy,Clinical Pathology,Pathology,4
+D0871,Dr. Ira Bose,ENT Surgery,ENT,14
+D0872,Dr. Aarav Chopra,Non-Invasive Cardiology,Cardiology,16
+D0873,Dr. Vivaan Gandhi,Radiation Oncology,Oncology,21
+D0874,Dr. Shreya Iyer,General Surgery,Surgery,4
+D0875,Dr. Aditya Mitra,Non-Invasive Cardiology,Cardiology,12
+D0876,Dr. Asha Menon,Medical Dermatology,Dermatology,30
+D0877,Dr. Aditya Bose,Radiation Oncology,Oncology,30
+D0878,Dr. Ishaan Sharma,General Pediatrics,Pediatrics,19
+D0879,Dr. Kabir Mehta,Spine,Orthopedics,19
+D0880,Dr. Saanvi Kumar,Adult Psychiatry,Psychiatry,12
+D0881,Dr. Rohan Kapoor,Clinical Neurology,Neurology,30
+D0882,Dr. Rohan Desai,Child Psychiatry,Psychiatry,15
+D0883,Dr. Aditya Das,Sleep Medicine,Pulmonology,29
+D0884,Dr. Arjun Singh,Cosmetic Dermatology,Dermatology,3
+D0885,Dr. Rohan Desai,Endoscopy,Gastroenterology,19
+D0886,Dr. Aditya Khanna,Medical Dermatology,Dermatology,22
+D0887,Dr. Karan Verma,Laparoscopic Surgery,Surgery,15
+D0888,Dr. Sneha Gupta,Audiology,ENT,20
+D0889,Dr. Kabir Sharma,Retina,Ophthalmology,29
+D0890,Dr. Ishaan Iyer,Obstetrics,Gynecology,23
+D0891,Dr. Sai Bose,Retina,Ophthalmology,7
+D0892,Dr. Ishaan Reddy,Joint Replacement,Orthopedics,4
+D0893,Dr. Aadhya Sharma,Clinical Neurology,Neurology,1
+D0894,Dr. Aadhya Chopra,Obstetrics,Gynecology,9
+D0895,Dr. Rohan Khanna,Cornea,Ophthalmology,7
+D0896,Dr. Ishaan Kumar,Cosmetic Dermatology,Dermatology,22
+D0897,Dr. Karan Bose,Hepatology,Gastroenterology,5
+D0898,Dr. Shreya Mitra,Thyroid Specialist,Endocrinology,25
+D0899,Dr. Karan Iyer,Interventional Radiology,Radiology,30
+D0900,Dr. Asha Desai,ENT Surgery,ENT,29
+D0901,Dr. Pooja Khanna,Diabetology,Endocrinology,9
+D0902,Dr. Aditya Das,Spine,Orthopedics,26
+D0903,Dr. Aarav Nair,Neonatology,Pediatrics,27
+D0904,Dr. Aditya Mehta,Reproductive Medicine,Gynecology,6
+D0905,Dr. Sneha Desai,Clinical Pathology,Pathology,24
+D0906,Dr. Aarav Reddy,Interventional Radiology,Radiology,23
+D0907,Dr. Kabir Nair,Joint Replacement,Orthopedics,12
+D0908,Dr. Sneha Das,Joint Replacement,Orthopedics,13
+D0909,Dr. Arjun Chopra,Child Psychiatry,Psychiatry,1
+D0910,Dr. Asha Das,Diagnostic Radiology,Radiology,15
+D0911,Dr. Rohan Reddy,Clinical Pathology,Pathology,16
+D0912,Dr. Rohan Mitra,General Surgery,Surgery,2
+D0913,Dr. Vivaan Das,Diagnostic Radiology,Radiology,9
+D0914,Dr. Ishaan Menon,Trauma Medicine,Emergency,10
+D0915,Dr. Sai Joshi,Critical Care,Emergency,20
+D0916,Dr. Diya Khanna,Interventional Cardiology,Cardiology,27
+D0917,Dr. Karan Patel,Transplant,Nephrology,16
+D0918,Dr. Karan Mitra,Interventional Pulmonology,Pulmonology,15
+D0919,Dr. Sneha Nair,Neonatology,Pediatrics,3
+D0920,Dr. Asha Gupta,Thyroid Specialist,Endocrinology,2
+D0921,Dr. Vikram Verma,Endourology,Urology,8
+D0922,Dr. Kabir Singh,Clinical Pathology,Pathology,30
+D0923,Dr. Sneha Joshi,Interventional Radiology,Radiology,16
+D0924,Dr. Aarav Reddy,ENT Surgery,ENT,23
+D0925,Dr. Meera Gupta,Transplant,Nephrology,9
+D0926,Dr. Pooja Gandhi,Spine,Orthopedics,3
+D0927,Dr. Diya Nair,Thyroid Specialist,Endocrinology,17
+D0928,Dr. Ishaan Kumar,Thyroid Specialist,Endocrinology,13
+D0929,Dr. Meera Gupta,Neonatology,Pediatrics,16
+D0930,Dr. Pooja Gupta,Trauma Medicine,Emergency,25
+D0931,Dr. Sneha Khanna,Hepatology,Gastroenterology,30
+D0932,Dr. Vivaan Bose,Cosmetic Dermatology,Dermatology,5
+D0933,Dr. Sai Singh,Audiology,ENT,5
+D0934,Dr. Meera Verma,Reconstructive Urology,Urology,3
+D0935,Dr. Diya Menon,Family Medicine,General Medicine,13
+D0936,Dr. Asha Singh,Hepatology,Gastroenterology,8
+D0937,Dr. Meera Patel,Diabetology,Endocrinology,8
+D0938,Dr. Aditya Gandhi,Clinical Neurology,Neurology,17
+D0939,Dr. Karan Singh,Reconstructive Urology,Urology,15
+D0940,Dr. Ishaan Singh,Endourology,Urology,4
+D0941,Dr. Vivaan Mitra,Non-Invasive Cardiology,Cardiology,22
+D0942,Dr. Ananya Chopra,Interventional Radiology,Radiology,25
+D0943,Dr. Kabir Bose,Diagnostic Radiology,Radiology,18
+D0944,Dr. Ira Sharma,Neonatology,Pediatrics,7
+D0945,Dr. Saanvi Nair,Dialysis,Nephrology,10
+D0946,Dr. Shreya Iyer,Family Medicine,General Medicine,1
+D0947,Dr. Sai Desai,General Pediatrics,Pediatrics,26
+D0948,Dr. Pooja Kumar,Radiation Oncology,Oncology,4
+D0949,Dr. Rohan Nair,Histopathology,Pathology,26
+D0950,Dr. Ishaan Bose,Adult Psychiatry,Psychiatry,11
+D0951,Dr. Aadhya Bose,Radiation Oncology,Oncology,15
+D0952,Dr. Vivaan Khanna,Interventional Pulmonology,Pulmonology,15
+D0953,Dr. Sneha Khanna,Family Medicine,General Medicine,28
+D0954,Dr. Kabir Reddy,Radiation Oncology,Oncology,23
+D0955,Dr. Ananya Desai,Histopathology,Pathology,3
+D0956,Dr. Asha Khanna,Reproductive Medicine,Gynecology,19
+D0957,Dr. Aarav Das,Medical Oncology,Oncology,20
+D0958,Dr. Asha Desai,Medical Dermatology,Dermatology,24
+D0959,Dr. Saanvi Mitra,Family Medicine,General Medicine,14
+D0960,Dr. Meera Sharma,General Pediatrics,Pediatrics,3
+D0961,Dr. Vikram Sharma,Laparoscopic Surgery,Surgery,8
+D0962,Dr. Ishaan Joshi,Cornea,Ophthalmology,10
+D0963,Dr. Sai Bose,ENT Surgery,ENT,9
+D0964,Dr. Aadhya Singh,Interventional Cardiology,Cardiology,28
+D0965,Dr. Meera Reddy,Laparoscopic Surgery,Surgery,24
+D0966,Dr. Karan Kapoor,Endoscopy,Gastroenterology,15
+D0967,Dr. Ananya Sharma,Laparoscopic Surgery,Surgery,24
+D0968,Dr. Ira Menon,Adult Psychiatry,Psychiatry,9
+D0969,Dr. Meera Verma,Sleep Medicine,Pulmonology,4
+D0970,Dr. Asha Kapoor,Neurosurgery,Neurology,12
+D0971,Dr. Rohan Chopra,Diabetology,Endocrinology,19
+D0972,Dr. Pooja Nair,Hepatology,Gastroenterology,24
+D0973,Dr. Ananya Sharma,Clinical Pathology,Pathology,1
+D0974,Dr. Karan Kapoor,Neonatology,Pediatrics,14
+D0975,Dr. Ishaan Menon,Thyroid Specialist,Endocrinology,10
+D0976,Dr. Karan Joshi,Hepatology,Gastroenterology,1
+D0977,Dr. Ananya Khanna,Thyroid Specialist,Endocrinology,4
+D0978,Dr. Aarav Joshi,Child Psychiatry,Psychiatry,10
+D0979,Dr. Rohan Reddy,General Pediatrics,Pediatrics,3
+D0980,Dr. Vivaan Singh,Transplant,Nephrology,26
+D0981,Dr. Ananya Bose,Clinical Pathology,Pathology,16
+D0982,Dr. Ira Desai,Medical Oncology,Oncology,18
+D0983,Dr. Aadhya Chopra,Interventional Cardiology,Cardiology,25
+D0984,Dr. Ananya Iyer,Retina,Ophthalmology,12
+D0985,Dr. Ishaan Kumar,Histopathology,Pathology,28
+D0986,Dr. Vivaan Bose,General Surgery,Surgery,28
+D0987,Dr. Sneha Das,Clinical Neurology,Neurology,21
+D0988,Dr. Vikram Chopra,Interventional Pulmonology,Pulmonology,19
+D0989,Dr. Pooja Gandhi,Joint Replacement,Orthopedics,9
+D0990,Dr. Ira Verma,Medical Dermatology,Dermatology,24
+D0991,Dr. Aadhya Gandhi,Laparoscopic Surgery,Surgery,20
+D0992,Dr. Saanvi Mitra,Reconstructive Urology,Urology,26
+D0993,Dr. Saanvi Chopra,Dialysis,Nephrology,5
+D0994,Dr. Aadhya Desai,Trauma Medicine,Emergency,27
+D0995,Dr. Sai Verma,Retina,Ophthalmology,28
+D0996,Dr. Asha Reddy,Diagnostic Radiology,Radiology,5
+D0997,Dr. Meera Mitra,Sleep Medicine,Pulmonology,8
+D0998,Dr. Vikram Singh,Endourology,Urology,7
+D0999,Dr. Ira Reddy,Cosmetic Dermatology,Dermatology,19
+D1000,Dr. Vikram Joshi,Medical Dermatology,Dermatology,22
