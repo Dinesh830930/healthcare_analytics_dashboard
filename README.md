@@ -1,8 +1,7 @@
 # healthcare_analytics_dashboard
 
 ## 🩺 Project Overview  
-The **Healthcare Analytics Dashboard** provides actionable insights into patient visits, treatment costs, doctor performance, and lab test efficiency.  
-This project demonstrates how healthcare data from MySQL can be transformed into interactive Power BI visuals to support data-driven decision-making for hospital management.  
+The **Healthcare Analytics Dashboard** provides actionable insights into patient visits, treatment costs, doctor performance, and lab test efficiency. This project demonstrates how healthcare data from MySQL can be transformed into interactive Power BI visuals to support data-driven decision-making for hospital management.  
 
 ---
 
